@@ -9,4 +9,5 @@ After doing so, a box will pop up that lists your media library. You will also h
 
 
 ## Finding the path to an image
-It is easy to find the location of the image on the server. Since the images are hyperlinked, just click the image you want in the media library and copy the image's location in the ``Link: `` box. You may have to scroll down if the image you chose is large and does not fit your screen
+It is easy to find the location of the image on the server. Since the images are hyperlinked, just click the image you want in the media library and copy the image's location in the ``Link: `` box. You may have to scroll down if the image you chose is large and does not fit your screen.
+<img src="link.png"/>
