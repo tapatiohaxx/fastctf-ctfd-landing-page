@@ -3,9 +3,9 @@ This is the landing page I created for the Forensics and General CTFs at SCaLE 2
 
 ## Uploading an image 
 To upload an image, you must be in a page's content page and you mst then click the "Media Library" button. 
-<img src="content-description.png" width="500" height = "500" />
+<img src="cntent-description.png" />
 After doing so, a box will pop up that lists your media library. You will also have the opption to upload an image. You want to do that, so select that button and navigate to the image file you want on our computer and upload it. The upload is confirmed by clicking the upload button. Uploaded files are hyperlinked. Be sure to note the name of the image you uploaded if there are multiple uploads.
-<img src="media-library.png" width="500" height="500"/>
+<img src="media-library.png"/>
 
 
 ## Finding the path to an image
